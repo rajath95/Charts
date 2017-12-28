@@ -1,0 +1,45 @@
+body {
+  font-family: Helvetica Neue, Arial, sans-serif;
+  text-align: center;
+}
+
+.wrapper {
+  max-width: 800px;
+  margin: 50px auto;
+}
+.edge{
+  max-width: 600px;
+  margin:30px auto;
+  top:10%;
+  left:5%;
+  position: absolute;
+}
+
+.ridge {
+  max-width:500px;
+  left:50%;
+  top:15%;
+  position: absolute;
+  text-align: right;
+}
+
+
+h1 {
+  font-weight: 200;
+  font-size: 3em;
+  margin: 0 0 0.1em 0;
+}
+
+h2 {
+  font-weight: 200;
+  font-size: 0.9em;
+  margin: 0 0 50px;
+
+
+}
+
+a {
+  margin-top: 50px;
+  display: block;
+  color: #3e95cd;
+}
